@@ -67,10 +67,8 @@ Este laboratorio práctico aborda los pilares esenciales de la Programación Ori
 ## 👩‍💻 Detalles del Autor, Fecha y Referencias
 
 * **Autor:** Nohelis Castro
-* **Cédula / ID:** 8-1048-1011
 * **Materia:** Herramientas de la Programación Aplicada III (.Net)
 * **Carrera:** Licenciatura en Ciberseguridad
-* **Institución:** Universidad Tecnológica de Panamá (UTP) - FISC
 * **Fecha:** 8 de octubre de 2026
 
 ### 📚 Referencias
