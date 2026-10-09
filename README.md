@@ -6,18 +6,21 @@
 
 ### 1. Insertar Registros (Imágenes)
 *Vista de ejecución de la inserción de datos en la entidad Estudiante y Docente:*
-!C:\xampp\htdocs\Practica\Practica_2\Imagen1.png
+!<img width="477" height="517" alt="Imagen1" src="https://github.com/user-attachments/assets/067fcf39-ab6d-4e1d-843e-2b1456476af8" />
+
 
 ---
 
 ### 2. Evidencia de Acciones de Modificar (Imágenes)
 *Demostración de la sobrescritura y modificación de atributos mediante setters:*
-!C:\xampp\htdocs\Practica\Practica_2\Imagen2.png
+!<img width="182" height="87" alt="Imagen2" src="https://github.com/user-attachments/assets/f1f9895e-e7ab-4857-beb9-4c66e4f65858" />
+
 ---
 
 ### 3. Evidencia de Acciones de Eliminar (Imágenes)
 *Prueba de eliminación de instancias o restricción de herencia (`final` class):*
-!C:\xampp\htdocs\Practica\Practica_2\Imagen3.png
+!<img width="1117" height="40" alt="Imagen3" src="https://github.com/user-attachments/assets/82a30c91-709e-4320-a102-c64619aa77c4" />
+
 
 ---
 
